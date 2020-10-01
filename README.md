@@ -1,4 +1,4 @@
-# Learn Dart & Flutter For FREE
+# Learn Dart & Flutter
 
 ## Best of the Best : 21 Premium Ebooks on Learning Dart & Flutter
 
